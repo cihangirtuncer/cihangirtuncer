@@ -4,7 +4,7 @@
 - 💻 I am interested in Flutter and have been working on it for 2 years.
 - ⭐ Giving great importance to daily routines and working discipline is the key to success for me.
 - 💪 My hobbies are swimming, traveling and crossfit.
-- 
+
 
 ## Connect with me:
 
