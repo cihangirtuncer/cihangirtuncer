@@ -1,7 +1,7 @@
 ## Hi there, I’m Cihangir. 
 
-- 🎓 I'm studying computer engineering and I am interested in Android and IOS mobile development. 
-- 💻 I am interested in Flutter and have been working on it for 2 years.
+- 🎓 I'm software developer and I am interested in Android and IOS mobile development. 
+- 💻 I am interested in Flutter and have been working on it for 3 years.
 - ⭐ Giving great importance to daily routines and working discipline is the key to success for me.
 - 💪 My hobbies are swimming, traveling and crossfit.
 
