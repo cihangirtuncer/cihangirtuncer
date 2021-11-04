@@ -7,7 +7,7 @@
 
 
 ## Connect with me:
-
+## Contact with me via these platforms:
 [<img align = "left" alt="emirhansern | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img align = "left" alt="emirhansern | Linkedin" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
