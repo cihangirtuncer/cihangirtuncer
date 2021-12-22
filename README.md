@@ -1,6 +1,5 @@
 ## Hi there, I’m Cihangir. 
 
-- 💻 I am currently working as Mobile Application Developer at CNT Interactive Inc.
 - 👨‍💻 I've been a flutter developer for +2 years.
 - 🎓 I'm a 3rd year computer engineering student.
 - ⭐ Giving great importance to daily routines and working discipline is the key to success for me.
