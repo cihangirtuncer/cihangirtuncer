@@ -1,6 +1,6 @@
 ## Hi there, I’m Cihangir. 
 
-- 👨‍💻 I've been a flutter developer for +2 years.
+- 👨‍💻 I've been a flutter developer for 2.5 years.
 - 🎓 I'm a 3rd year computer engineering student.
 - ⭐ Giving great importance to daily routines and working discipline is the key to success for me.
 - 💪 My hobbies are swim, traveling and crossfit.
