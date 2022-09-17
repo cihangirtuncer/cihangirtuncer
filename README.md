@@ -1,6 +1,6 @@
 ## Hi there, I’m Cihangir. 
 
-- 👨‍💻 I've been a Flutter and Swift developer.
+- 👨‍💻 I'm Flutter and Swift developer.
 - 🎓 I'm a 4rd year computer engineering student.
 - ⭐ Giving great importance to daily routines and working discipline is the key to success for me.
 - 💪 My hobbies are swim, traveling and crossfit.
